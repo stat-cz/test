@@ -4882,7 +4882,7 @@ h1, h2, h3, h4, h5, h6 {
     #ace-card {
         float: left;
         width: 288px;
-        position: relative;
+        position: fixed;
         margin-left: 10px;
     }
 }
